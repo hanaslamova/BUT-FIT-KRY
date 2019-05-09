@@ -1,0 +1,2 @@
+decipher:
+	@./ecc.py  "$(publicKey)"
